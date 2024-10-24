@@ -1,6 +1,9 @@
 ## Olá, eu sou Valmir Santos! 👋
 ### QA Analyst | QA Engineer | QA Automation
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-santos-94896132/)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vlassilv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 ## 🚀 Sobre mim
 Iniciei minha carreira profissional na área industrial, com experiência em processos de fabricação de vidros e alimentos. Possuo vasta experiência em controle e garantia da qualidade, incluindo normas, padrões, auditorias e ferramentas como BPP, PDCA, 5S, GRD, MASP e ISO-9001.
 
